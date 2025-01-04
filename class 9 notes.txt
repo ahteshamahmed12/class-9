@@ -1,0 +1,50 @@
+Theme forest unlimited resources to make website
+Figma Online templates
+API routes 
+
+STATE (core concept)
+
+state is a current information of a component. 
+
+Ap ka variables ki current value kia ha
+
+counter application 
+
+React Hooks (Raect built in function)
+
+jab bhi ap ko react ma variable ko name ko change karna ho to ap direct variable ko touch nahi karta.
+
+useState
+useEffect
+useCallback
+useRef
+useMemo
+
+use state
+
+ const[count,setCount]=useState(90)
+
+ count= variable
+ setCount= setter function
+ useState =function  ya value deafult value hoti ha
+
+ react ma ya nextjs ma ap ko variable update karna ho to ap ap direct kabhi bhi us ko update nahi kara ga ap hamesha us ko
+ update kara ga setter function ka through
+
+ setCount ak convention ha developer ka dia hoa name
+
+ jab bhi ap ko raect hooks use kara ga ap ko apna components ko client side banana paray ga jo deafult sa hi server side
+ hota ha.
+
+ Event Handlers (user activity)
+
+ jab user aka ap ki website pa koi bhi action perform karay is ka ap ko event handler kahta ha.
+
+ event handler are
+ onClick
+ onMouseEnter 
+ onMouseLeave
+ onBlur
+
+
+state update hamesha setter function sa hoga
